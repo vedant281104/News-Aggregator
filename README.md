@@ -13,8 +13,14 @@ Backend: Python for handling API requests and processing data.
 API: NewsAPI to fetch the latest news articles.
 
 Key Features:
+
 User Preferences: Users can select news categories or specific topics they are interested in.
+
 Real-Time Updates: The app retrieves the latest news articles, ensuring users have access to current information.
+
 Easy Navigation: A user-friendly interface allows for easy browsing of news articles.
+
 Filtering Options: Users can filter articles based on their preferences for a customized news experience.
+
+
 This project showcases your ability to integrate APIs, create interactive web applications, and enhance user engagement through personalized content delivery. It also demonstrates your skills in Python and frontend development using Streamlit.
