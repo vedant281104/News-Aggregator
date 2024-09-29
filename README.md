@@ -1,5 +1,6 @@
 
 News Aggregator Project
+
 Name: News Aggregator
 
 Description: The News Aggregator is a web application that fetches and displays the latest news articles based on user preferences, such as categories like technology, health, sports, etc. The app utilizes the NewsAPI to gather current articles from various sources, providing users with a personalized news reading experience. Users can filter news based on their interests and stay updated with the latest headlines.
