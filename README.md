@@ -7,8 +7,11 @@ Description: The News Aggregator is a web application that fetches and displays 
 Tech Stack:
 
 Frontend: Streamlit for building an interactive user interface.
+
 Backend: Python for handling API requests and processing data.
+
 API: NewsAPI to fetch the latest news articles.
+
 Key Features:
 User Preferences: Users can select news categories or specific topics they are interested in.
 Real-Time Updates: The app retrieves the latest news articles, ensuring users have access to current information.
